@@ -1,0 +1,8 @@
+- configurar vite.config.js con PWA.
+- definir paleta de colores.
+- crear proyecto en firebase.
+- crear base de datos en firestore.
+- crear store para tener historial.
+- crear readme.
+- crear zustand store con immer y persistencia (local storage - se utiliza info de firestore inicialmente, o de local storage si no hay conexión).
+- crear componentes.
